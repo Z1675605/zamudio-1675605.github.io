@@ -1,0 +1,17 @@
+body{
+    background-image: url('Blue_Cloudy_Sky_Background-1074.jpg');
+}
+
+fieldset{
+    background-color: whitesmoke;
+}
+
+h2{
+    text-align: center;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    background-color: gray;
+    color: white;
+}
